@@ -1,0 +1,102 @@
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\bin\Debug\netcoreapp2.2\Shopper.deps.json
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\bin\Debug\netcoreapp2.2\Shopper.runtimeconfig.json
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\bin\Debug\netcoreapp2.2\Shopper.runtimeconfig.dev.json
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\bin\Debug\netcoreapp2.2\Shopper.dll
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\bin\Debug\netcoreapp2.2\Shopper.pdb
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\bin\Debug\netcoreapp2.2\Shopper.Views.dll
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\bin\Debug\netcoreapp2.2\Shopper.Views.pdb
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.csproj.CoreCompileInputs.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorAssemblyInfo.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorAssemblyInfo.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.AssemblyInfoInputs.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.AssemblyInfo.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.TagHelpers.input.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.TagHelpers.output.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorCoreGenerate.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorTargetAssemblyInfo.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorTargetAssemblyInfo.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.Views.pdb
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.dll
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.pdb
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Shopper.csproj.CopyComplete
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Create.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Delete.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Details.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Edit.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Taxed folder\Shopper\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Index.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.deps.json
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.runtimeconfig.json
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.runtimeconfig.dev.json
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.dll
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.pdb
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.Views.dll
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.Views.pdb
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.csproj.CoreCompileInputs.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorAssemblyInfo.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorAssemblyInfo.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.AssemblyInfoInputs.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.AssemblyInfo.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.TagHelpers.input.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.TagHelpers.output.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorCoreGenerate.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Create.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Delete.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Details.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Edit.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Index.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorTargetAssemblyInfo.cache
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorTargetAssemblyInfo.cs
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.Views.pdb
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.dll
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.pdb
+C:\Users\kotma\Documents\443 course lecture sequence\Shopping folder\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.csproj.CopyComplete
+D:\CIS 443\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.deps.json
+D:\CIS 443\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.runtimeconfig.json
+D:\CIS 443\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.runtimeconfig.dev.json
+D:\CIS 443\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.dll
+D:\CIS 443\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.pdb
+D:\CIS 443\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.Views.dll
+D:\CIS 443\Shopper - 0\Shopper\bin\Debug\netcoreapp2.2\Shopper.Views.pdb
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.csproj.CoreCompileInputs.cache
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorAssemblyInfo.cache
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorAssemblyInfo.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.AssemblyInfoInputs.cache
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.AssemblyInfo.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.TagHelpers.input.cache
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.TagHelpers.output.cache
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorCoreGenerate.cache
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Create.g.cshtml.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Delete.g.cshtml.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Details.g.cshtml.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Edit.g.cshtml.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Index.g.cshtml.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorTargetAssemblyInfo.cache
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.RazorTargetAssemblyInfo.cs
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.Views.pdb
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.dll
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.pdb
+D:\CIS 443\Shopper - 0\Shopper\obj\Debug\netcoreapp2.2\Shopper.csproj.CopyComplete

@@ -1,0 +1,55 @@
+﻿@*@model Shopper.Models.Sale*@
+
+@model Sale
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Taxable
+            </th>
+            <th>
+                Total
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+            <td>
+                @Model.Name
+            </td>
+            <td>
+                @Model.Price
+            </td>
+            <td>
+                @Model.IsTaxable
+            </td>
+            <td>
+                @Model.Total
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="Model.ProductID">Edit</a> |
+                <a asp-action="Details" asp-route-id="Model.ProductID">Details</a> |
+                <a asp-action="Delete" asp-route-id="Model.ProductID">Delete</a>
+            </td>
+        </tr>
+
+    </tbody>
+</table>
